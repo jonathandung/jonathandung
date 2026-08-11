@@ -1,6 +1,6 @@
 - Hi, I’m @jonathandung
 - Interested in math and programming
-- Somewhat proficient in python, scratch, app inventor; beginner in C++
+- Somewhat proficient in Python, Scratch, MIT App Inventor
 - Pronouns: He/Him
 
 ## Stats
