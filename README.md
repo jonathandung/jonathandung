@@ -1,6 +1,8 @@
-- Hi, I’m @jonathandung
+- I'm Jonathan
 - Interested in math and programming
-- Somewhat proficient in Python, Scratch, MIT App Inventor
+- Somewhat proficient in Python, MIT App Inventor, and Scratch
+- Learning Powershell and Bash (?)
+- [My GitHub Pages site](https://jonathandung.github.io)
 - Pronouns: He/Him
 
 ## Stats
