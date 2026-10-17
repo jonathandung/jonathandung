@@ -8,7 +8,7 @@
 ## Stats
 
 ![GitHubCard](https://githubcard.com/jonathandung.svg)
-![Trophies](https://github-profile-trophy-ahmed.vercel.app/?username=jonathandung&theme=onestar&no-bg=true&no-frame=true&row=1&column=7&v=3)
+![Trophies](https://trophy.ryglcloud.net/?username=jonathandung&theme=dracula)
 
 ![Visits](https://badges.pufler.dev/visits/jonathandung/jonathandung)
 ![Years](https://badges.pufler.dev/years/jonathandung)
